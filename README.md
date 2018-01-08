@@ -48,3 +48,4 @@ value:
 Right now the type design doesn't allow for ruby symbols to be used as keys.
 
 There are no tests.
+
